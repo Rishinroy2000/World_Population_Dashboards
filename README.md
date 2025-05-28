@@ -5,7 +5,7 @@ I developed a comprehensive project in Excel, creating multiple tables and dashb
 
 # 🌍 World Population Dashboards
 
-📊 A set of **Power BI dashboards** visualizing global population trends, growth comparisons, and geographic insights from 1970 to 2020.  
+📊 A set of **Microsoft Excel dashboards** visualizing global population trends, growth comparisons, and geographic insights from 1970 to 2020.  
 This project explores how population has evolved across continents and countries using dynamic visuals, maps, and slicers.
 
 ---
@@ -73,5 +73,5 @@ To analyze and compare world population data over time, with insights into:
 
 1. Clone or download the repository  
 2. Open the `.xslx` file in Microsoft Excel  
-3. Explore the dashboard
+3. Explore the dashboards
 4. Use slicers and filters to analyze specific trends
